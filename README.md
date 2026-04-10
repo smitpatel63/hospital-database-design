@@ -24,7 +24,7 @@ The ER diagram represents:
 
 ---
 
-## 🏗 Database Schema
+## 🏗 Database 
 
 ### Entities Included
 - **Departments**
